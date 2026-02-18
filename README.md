@@ -27,6 +27,10 @@ The method successfully reduces the number of parameters (knots) needed to repre
 * **Cubic vs. Quintic Splines:** Compared performance between degrees $p=3$ and $p=5$.
 * **Surface Reconstruction:** Successfully reconstructed 3D surfaces starting from a dense $40 \times 40$ knot grid, reducing it to essential active knots only.
 
+## Execution
+To reproduce the numerical experiments, please refer to the **`CODE_GUIDE`** file included in this repository.
+
+
 ## 👥 Authors
 * **Chiara Garuglieri** 
 * Ilaria Girotti
